@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "contiki.h": "c",
+        "contiki-default-conf.h": "c",
+        "process.h": "c",
+        "leds.h": "c"
+    }
+}
