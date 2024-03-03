@@ -3,6 +3,8 @@
         "contiki.h": "c",
         "contiki-default-conf.h": "c",
         "process.h": "c",
-        "leds.h": "c"
+        "leds.h": "c",
+        "cc2420.h": "c",
+        "button-sensor.h": "c"
     }
 }
